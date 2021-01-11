@@ -12,8 +12,5 @@ I WANT to update employee roles
 To deploy this on a live system copy all the files from this repository to your computer and install
 the necessary dependencies for the project
 
-## How it Works
-
-
 ## Authors
 Ronnie Cromer
